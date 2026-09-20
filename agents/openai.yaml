@@ -1,0 +1,4 @@
+interface:
+  display_name: "Context Split Questions"
+  short_description: "把复杂问题拆成子问题，按语义切材料，只读相关证据并校验冲突"
+  default_prompt: "用 $context-split-questions 把这个大问题拆成子问题，按语义切分材料，最后汇总并校验冲突。"
