@@ -1,1 +1,68 @@
-IyBjb250ZXh0LXNwbGl0LXF1ZXN0aW9ucwoK57uZIEFJIOWKqeaJi++8iENvZGV477yJ55So55qE5LiA5Lu95pON5L2c5omL5YaM77yaKirmnZDmlpnlpKrlpJror7vkuI3lrozjgIHpl67popjlpKrlpKfml7bvvIzmgI7kuYjmi4bjgIHmgI7kuYjor7vjgIHmgI7kuYjorrAqKu+8jOmYsuatouS4iuS4i+aWh+iFkOeDguOAggoKIyMg6Kej5Yaz5LuA5LmI6Zeu6aKYCgrkuIrkuIvmlofohZDng4LkuI3mmK8i5a2X5aSq5aSaIu+8jOiAjOaYr+Wbm+S7tuS6i+WQjOaXtuWPkeeUn++8muaXoOWFs+adkOaWmea3t+i/m+adpeOAgeiiq+aOqOe/u+eahOe7k+iuuui/mOeVmeedgOOAgeWQjOS4gOS6i+WunuWHuueOsOS6kuebuOefm+ebvueahOeJiOacrOOAgeS4remXtOS6p+eJqeayoeiQveebmOWvvOiHtOaXoOazleWkjeaguOWSjOS6pOaOpeOAggoK6L+Z5Liq5oqA6IO955qE5YGa5rOV5piv77ya5Y+q5oqK5LiO5b2T5YmN5a2Q6Zeu6aKY55u45YWz55qE6K+B5o2u6K+76L+b5LiK5LiL5paH77yM5q+P5p2h57uT6K666YO96IO95qC45a+55p2l5rqQ77yM5Lit6Ze05Lqn54mp5YWo6YOo5YaZ5Yiw56OB55uY5LiK77yM5Lu75Yqh6ZqP5pe25Y+v5Lul5Lqk5o6l44CCCgojIyDku4DkuYjml7blgJnnlKjlroMKCi0g6Zeu6aKY5YyF5ZCrIOKJpTMg5Liq54us56uL5Y+W6K+B5pa55ZCR77yM5LiU5q+P5Liq5pa55ZCR6ZyA6KaB5YiG5Yir5qOA57SiL+WPluivge+8jOiAjOS4jeaYr+WQjOS4gOS7veivgeaNruiDveWQjOaXtuWbnuetlOOAggotIOadkOaWmeivu+S4jeWujO+8mumVv+aWh+aho+OAgeS8muiuruiusOW9leOAgeiBiuWkqeWOhuWPsuOAgeWkp+S7o+eggeW6k+OAggotIOS4pOiAheWQjOaXtuWHuueOsOOAggoKIyMg5LuA5LmI5pe25YCZ5LiN6KaB55SoCgotIOadkOaWmeiDveS4gOasoeivu+WujO+8jOS4lOWQhOaWueWQkeWFseeUqOWQjOS4gOS7veivgeaNruOAgeaXoOmcgOWIhuWIq+ajgOe0ouOAggotIOWtkOmXrumimOmrmOW6puiApuWQiO+8jOW/hemhu+WQjOaXtueci+WujOWFqOmDqOadkOaWmeaJjeiDveWbnuetlOOAggotIOWPquaYr+aDs+aNouS4quS8muivnee7p+e7reiBiu+8jOS4jeaYr+WcqOWbnuetlOaWsOmXrumimOOAggoKIyMg5paH5Lu26K+05piOCgp8IOaWh+S7tiB8IOS9nOeUqCB8CnwgLS0tIHwgLS0tIHwKfCBgU0tJTEwubWRgIHwg5oqA6IO95q2j5paH77ya56Gs6KeE5YiZ44CB6JC955uY57qm5a6a44CB5YWt5q2l5rWB56iL44CB6Ziy6IWQ6Ieq5qOA44CB5bi46KeB6ZSZ6K+vIHwKfCBgYWdlbnRzL29wZW5haS55YW1sYCB8IENvZGV4IOivhuWIq+eUqOeahOWwj+WNoeeJh++8iOWQjeensOOAgeeugOS7i+OAgem7mOiupOaPkOekuuivje+8iSB8CnwgYHJlZmVyZW5jZXMvZmFpdGhmdWwtc3VtbWFyeS5tZGAgfCDkv53nnJ/mkZjopoHmgI7kuYjlhpnvvJrmqKHmnb8gKyDlpb3lnY/lr7nmr5QgfAp8IGByZWZlcmVuY2VzL2RlY29tcG9zaXRpb24tZXhhbXBsZS5tZGAgfCDmi4blrZDpl67popjnmoTlrozmlbTkvovlrZDvvIjlkKvkvp3otZblhbPns7vkuI7kuqfnianvvIkgfAoKIyMg5oCO5LmI5L2/55SoCgoqKuaWueW8j+S4gO+8iOaOqOiNkO+8ie+8muijhei/myBDb2RleOOAgioqIOaKiuacrOebruW9leaVtOS4quWkjeWItuWIsO+8mgoKYGBgdGV4dApDOlxVc2Vyc1wxOTEwNlwuY29kZXhcc2tpbGxzXGNvbnRleHQtc3BsaXQtcXVlc3Rpb25zXApgYGAKCumHjeWQr+S8muivneWQju+8jENvZGV4IOS8muWcqOmcgOimgeaXtuiHquWKqOW8leeUqOOAggoKKirmlrnlvI/kuozvvJrkuLTml7blvJXnlKjjgIIqKiDlnKjkvJror53ph4znm7TmjqXor7TvvJoKCmBgYHRleHQK5oyJIGh0dHBzOi8vZ2l0aHViLmNvbS9jODg4Yzk5MS9jb250ZXh0LXNwbGl0LXF1ZXN0aW9ucyDph4znmoQgU0tJTEwubWQg5YGaCmBgYAoKIyMg5qC45b+D56Gs6KeE5YiZ77yI5a6M5pW054mI6KeBIFNLSUxMLm1k77yJCgoxLiDlj6rmiorkuI7lvZPliY3lrZDpl67popjnm7jlhbPnmoTor4Hmja7or7vov5vkuIrkuIvmlofvvIzml6DlhbPmnZDmlpnkuI3or7vjgIHkuI3otLTjgIIKMi4g5q+P5p2h57uT6K666ZmE6K+B5o2u57yW5Y+35LiO5p2l5rqQ77yb6K+B5o2u5LiN6Laz5bCx5YaZ44CM5p2Q5paZ5LiN6Laz44CN77yM5LiN6KaB6KGl57yW44CCCjMuIOivgeaNruS6kuebuOefm+ebvuaIluaXtuaViOS4jeWQjOaXtuW5tuWIl+WIl+WHuuW5tuagh+azqOaXpeacn++8jOS4jeimgeaTheiHquaMkeS4gOS4quOAggo0LiDkuK3pl7TkuqfnianokL3nm5jvvIzlr7nor53ph4zlj6rnlZnntKLlvJXvvIjlnZcgSUQgKyDkuLvpopggKyDkuIDooYznu5PorrrvvInjgIIKNS4g5LiN5Luj5pu/55So5oi35paw5bu65Lya6K+d44CB5YiH5o2i5Lya6K+d5oiW5omn6KGM5Y6L57yp77yM5Y+q6L6T5Ye65o+Q6YaS44CCCjYuIOWFiOe7meWHuuWtkOmXrumimOa4heWNle+8jOetieeUqOaIt+ehruiupOWQjuWGjeWKqOaJi+OAggo3LiDpgbXlvqrnlKjmiLfml6LmnInnmoTkuIrkuIvmlofop4TliJnvvIjlpoLpobnnm67ph4znmoQgYEFHRU5UUy5tZGDvvInvvIzkuI3lj6bnq4vkuIDlpZfpmIjlgLzjgIIKCiMjIOWvvOWFpeiusOW9lQoKfCDml7bpl7QgfCDmj5DkuqQgfCDlhoXlrrkgfAp8IC0tLSB8IC0tLSB8IC0tLSB8CnwgMjAyNi0wOS0yMCB8IOmmluasoeaPkOS6pCB8IOW7uuS7k+W5tuWvvOWFpSBgU0tJTEwubWRg44CBYGFnZW50cy9vcGVuYWkueWFtbGDjgIHkuKTkuKogYHJlZmVyZW5jZXMvYCDmlofku7YgfAp8IDIwMjYtMDktMjAgfCDmnKzmrKHkv67orqIgfCDlkK/nlKgv5LiN5ZCv55So6Kem5Y+R5p2h5Lu25pS55Li644CM4omlMyDkuKrni6znq4vlj5bor4HmlrnlkJHjgI3kuI7jgIzlj6rmnInkuIDkuKrlj5bor4HmlrnlkJHkuJTmnZDmlpnog73kuIDmrKHor7vlrozjgI3vvIzmtojpmaTkuKTogIXlkIzml7blkb3kuK3nmoTnn5vnm74gfAp8IDIwMjYtMDktMjAgfCDmnKzmrKHkv67orqLvvIjkuozvvIkgfCDkuI3lkK/nlKjnrKzkuIDmnaHmlL7lrr3kuLrjgIzmnZDmlpnog73kuIDmrKHor7vlrozvvIzkuJTlkITmlrnlkJHlhbHnlKjlkIzkuIDku73or4Hmja7jgIHml6DpnIDliIbliKvmo4DntKLjgI3vvIzmtojpmaTmuIXljZXlpLnnvJ0gfAoKIyMg55u45YWz5LuT5bqTCgotIFtnaXRodWItaW1wb3J0LXNraWxsXShodHRwczovL2dpdGh1Yi5jb20vYzg4OGM5OTEvZ2l0aHViLWltcG9ydC1za2lsbCkg4oCU4oCUIOaKiuacrOWcsOS7o+eggSAvIOaWh+aho+WvvOWFpSBHaXRIdWIg5LuT5bqT55qE5pON5L2c5omL5YaM44CCCg==
+# context-split-questions
+
+给 AI 助手（Codex）用的一份操作手册：**材料太多读不完、问题太大时，怎么拆、怎么读、怎么记**，防止上下文腐烂。
+
+## 解决什么问题
+
+上下文腐烂不是"字太多"，而是四件事同时发生：无关材料混进来、被推翻的结论还留着、同一事实出现互相矛盾的版本、中间产物没落盘导致无法复核和交接。
+
+这个技能的做法是：只把与当前子问题相关的证据读进上下文，每条结论都能核对来源，中间产物全部写到磁盘上，任务随时可以交接。
+
+## 什么时候用它
+
+- 问题包含 ≥3 个独立取证方向，且每个方向需要分别检索/取证，而不是同一份证据能同时回答。
+- 材料读不完：长文档、会议记录、聊天历史、大代码库。
+- 两者同时出现。
+
+## 什么时候不要用
+
+- 材料能一次读完，且各方向共用同一份证据、无需分别检索。
+- 子问题高度耦合，必须同时看完全部材料才能回答。
+- 只是想换个会话继续聊，不是在回答新问题。
+
+## 文件说明
+
+| 文件 | 作用 |
+| --- | --- |
+| `SKILL.md` | 技能正文：硬规则、落盘约定、六步流程、防腐自检、常见错误 |
+| `agents/openai.yaml` | Codex 识别用的小卡片（名称、简介、默认提示词） |
+| `references/faithful-summary.md` | 保真摘要怎么写：模板 + 好坏对比 |
+| `references/decomposition-example.md` | 拆子问题的完整例子（含依赖关系与产物） |
+
+## 怎么使用
+
+**方式一（推荐）：装进 Codex。** 把本目录整个复制到：
+
+```text
+C:\Users\19106\.codex\skills\context-split-questions\
+```
+
+重启会话后，Codex 会在需要时自动引用。
+
+**方式二：临时引用。** 在会话里直接说：
+
+```text
+按 https://github.com/c888c991/context-split-questions 里的 SKILL.md 做
+```
+
+## 核心硬规则（完整版见 SKILL.md）
+
+1. 只把与当前子问题相关的证据读进上下文，无关材料不读、不贴。
+2. 每条结论附证据编号与来源；证据不足就写「材料不足」，不要补编。
+3. 证据互相矛盾或时效不同时并列列出并标注日期，不要擅自挑一个。
+4. 中间产物落盘，对话里只留索引（块 ID + 主题 + 一行结论）。
+5. 不代替用户新建会话、切换会话或执行压缩，只输出提醒。
+6. 先给出子问题清单，等用户确认后再动手。
+7. 遵循用户既有的上下文规则（如项目里的 `AGENTS.md`），不另立一套阈值。
+
+## 导入记录
+
+| 时间 | 提交 | 内容 |
+| --- | --- | --- |
+| 2026-09-20 | 首次提交 | 建仓并导入 `SKILL.md`、`agents/openai.yaml`、两个 `references/` 文件 |
+| 2026-09-20 | 本次修订 | 启用/不启用触发条件改为「≥3 个独立取证方向」与「只有一个取证方向且材料能一次读完」，消除两者同时命中的矛盾 |
+| 2026-09-20 | 本次修订（二） | 不启用第一条放宽为「材料能一次读完，且各方向共用同一份证据、无需分别检索」，消除清单夹缝 |
+
+## 相关仓库
+
+- [github-import-skill](https://github.com/c888c991/github-import-skill) —— 把本地代码 / 文档导入 GitHub 仓库的操作手册。
